@@ -1,8 +1,7 @@
 # Proffy
----
-
 Plataforma de estudos online
 
+---
 ### Funcionalidades
 
 * __Aluno__
