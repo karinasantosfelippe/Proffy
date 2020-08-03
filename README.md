@@ -6,7 +6,7 @@ Plataforma de estudos online
 
 * __Aluno__
 1. Filtro por matéria / dia / horário
-    a. Exibe aulas do filtro (com dados como: professor, matéria, descrição, data/horário, valor)
+   * Exibe aulas do filtro (com dados como: professor, matéria, descrição, data/horário, valor)
 1. Contato para cada aula
 1. Lista de professores favoritos
 
