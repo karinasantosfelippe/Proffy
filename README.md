@@ -1,7 +1,20 @@
-# Proffy
-Plataforma de estudos online
+<p align="center">
+  <img src="https://github.com/RafaelGoulartB/Proffy/blob/master/.github/logo.png" />
+</p>
+
+
+<p align="center">
+Plataforma de estudos online (version 1.0)
+</p>
+  
+---
+
+### Descrição
+
+:computer: Aplicação que conecta professores e estudantes, de forma simples e iterativa.
 
 ---
+
 ### Funcionalidades
 
 * __Aluno__
