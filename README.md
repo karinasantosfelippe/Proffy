@@ -70,4 +70,4 @@ As tecnologias adotadas para este projeto foram:
 
 O projeto foi criado na primeira semana de agosto, em homenagem ao Dia Nacional dos Profissionais da Educação (6 de agosto).
 
-*Projeto criado durante Newt Level Week 2 (oferecido pela Rocketseat)*
+*Projeto criado durante __Newt Level Week 2__ (oferecido pela [Rocketseat](https://rocketseat.com.br/))*
