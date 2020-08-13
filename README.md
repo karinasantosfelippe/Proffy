@@ -11,9 +11,9 @@ Plataforma de estudos online (version 1.0)
 
 ### Descrição
 
-&nbsp;&nbsp;&nbsp;Aplicação que conecta professores e estudantes, de forma simples e iterativa.
+&nbsp;&nbsp;&nbsp;Aplicação Web e Mobile que possibilita a conexão entre professores e estudantes, de forma simples e iterativa.
 </br>&nbsp;&nbsp;&nbsp;Os professores se cadastram, descrevendo seu perfil, a matéria que irão ministrar e os horários que estarão disponíveis para ministrar aquela matéria.
-</br>&nbsp;&nbsp;&nbsp;Os alunos podem fazer uma busca dos professores disponíveis por matéria e horário. Na versão mobile, também podem favoritar um professor de sua preferência. 
+</br>&nbsp;&nbsp;&nbsp;Os alunos podem fazer uma busca dos professores disponíveis por matéria e horário. Na versão mobile, também podem favoritar um professor de sua preferência.
 
 ---
 
@@ -65,4 +65,9 @@ As tecnologias adotadas para este projeto foram:
       - Filtrar por matéria, dia da semana e horário;
 
 ---
+
+### Considerações e Reconhecimentos
+
+O projeto foi criado na primeira semana de agosto, em homenagem ao Dia Nacional dos Profissionais da Educação (6 de agosto).
+
 *Projeto criado durante Newt Level Week 2 (oferecido pela Rocketseat)*
