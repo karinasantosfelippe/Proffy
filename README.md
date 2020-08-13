@@ -11,7 +11,34 @@ Plataforma de estudos online (version 1.0)
 
 ### Descrição
 
-:computer: Aplicação que conecta professores e estudantes, de forma simples e iterativa.
+&nbsp;&nbsp;&nbsp;Aplicação que conecta professores e estudantes, de forma simples e iterativa.
+</br>&nbsp;&nbsp;&nbsp;Os professores se cadastram, descrevendo seu perfil, a matéria que irão ministrar e os horários que estarão disponíveis para ministrar aquela matéria.
+</br>&nbsp;&nbsp;&nbsp;Os alunos podem fazer uma busca dos professores disponíveis por matéria e horário. Na versão mobile, também podem favoritar um professor de sua preferência. 
+
+---
+
+### Tecnologias
+
+As tecnologias adotadas para este projeto foram:
+
+   - Typescript
+   - React
+   - Expo
+   - Express
+
+---
+
+### Preview
+
+</br> Versão Web: </br></br>  
+<p>
+  <img src="https://raw.githubusercontent.com/karinasantosfelippe/Proffy/master/.github/web-landing.png" />
+</p>
+
+</br></br>Versão Mobile: </br></br>
+<p>
+  <img src="https://raw.githubusercontent.com/karinasantosfelippe/Proffy/master/.github/mobile-home.png" />
+</p>
 
 ---
 
