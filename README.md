@@ -30,9 +30,16 @@ As tecnologias adotadas para este projeto foram:
 
 ### Preview
 
-</br> Versão Web: </br></br>  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/karinasantosfelippe/Proffy/master/.github/split-telas.png" />
+</p>
+
+</br></br> Versão Web: </br></br>  
 <p>
   <img src="https://raw.githubusercontent.com/karinasantosfelippe/Proffy/master/.github/web-landing.png" />
+</p>
+<p>
+  <img src="https://raw.githubusercontent.com/karinasantosfelippe/Proffy/master/.github/cadastro-professor.png" />
 </p>
 
 </br></br>Versão Mobile: </br></br>
